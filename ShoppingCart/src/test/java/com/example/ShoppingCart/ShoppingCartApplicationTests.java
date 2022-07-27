@@ -1,6 +1,6 @@
 package com.example.ShoppingCart;
 
-import com.example.ShoppingCart.repo.*;
+import com.example.ShoppingCart.Repo.*;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
